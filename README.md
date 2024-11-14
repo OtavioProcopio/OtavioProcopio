@@ -5,31 +5,32 @@
 📍 Localização: [Arceburgo-MG]
 
 ---
-
 ## Sobre Mim
-Com uma formação em [Sua Área/Indústria, e.g., Engenharia, Ciência de Dados, Marketing], sou apaixonado(a) por [áreas de interesse, como desenvolvimento de soluções inovadoras, insights orientados por dados, design criativo]. Minha trajetória em [Indústria/Área] me proporcionou a oportunidade de trabalhar em projetos impactantes, aprimorando minhas habilidades em [principais habilidades, como análise de dados, desenvolvimento de software, etc.].
 
----
+Tenho 26 anos, sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como Inspetor de Qualidade. Tenho uma forte paixão por tecnologia e programação, buscando me especializar como Fullstack Developer.
+
+Além do trabalho e dos estudos, sou entusiasta de atividades que estimulam a criatividade e o raciocínio lógico, como jogar videogames e tocar guitarra. Acredito que essas paixões me ajudam a desenvolver habilidades que se aplicam tanto ao meu trabalho quanto aos meus projetos pessoais.
+
 
 ## 🌟 Objetivos
-- **Habilidade 1:** Breve descrição de como você utiliza essa habilidade ou a aplica em projetos.
-- **Habilidade 2:** Explicação ou exemplo de como essa habilidade é utilizada em sua experiência.
-- **Habilidade 3:** Outro exemplo ou explicação relevante sobre o uso dessa habilidade.
-
-
+- 
+Busco oportunidade de ingressar na área de desenvolvimento de sistemas, com foco na carreira de Fullstack Developer.
 
 ## 📈 Destaques Profissionais
 
 **Inspetor de Qualidade** - Rei Auto Parts  
-Breve descrição de suas conquistas e responsabilidades neste cargo.
+Realização de ensaios não destrutivos com Ultrassom Industrial e Partículas Magnéticas, garantindo a conformidade dos materiais.
 
-**[Cargo Anterior]** - [Nome da Empresa Anterior]  
-Resumo das realizações, contribuições e experiências relevantes.
+Ajuste e calibração de equipamentos de teste, foco em precisão e segurança.
+
+Análises de causa raiz e melhoria contínua, integração com equipes multidisciplinares.
 
 ---
 
 ## 🎓 Formação Acadêmica
-- **[Grau Acadêmico]** em **[Área de Estudo]** - [Nome da Universidade]
+- **[Análise e Desenvolvimento de Sistemas]** - [Faculdade de Tecnologia de Mococa (Fatec) – Mococa/SP]
+Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia de Mococa (Fatec) – Mococa/SP
+Conclusão prevista: Dezembro/2026
 
 ---
 
@@ -48,6 +49,7 @@ Sinta-se à vontade para se conectar para colaborações, networking ou apenas p
 - Angular, React, Spring Boot, JUnit
 
 ### Ferramentas
+
 - VSCode, GIT/GitHub, Postman, Swagger
 
 ### Aplicações e Experiências
