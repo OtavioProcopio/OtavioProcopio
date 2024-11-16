@@ -39,28 +39,3 @@ Conclusão prevista: Dezembro/2026
 Sinta-se à vontade para se conectar para colaborações, networking ou apenas para um bate-papo! Conecte-se comigo no LinkedIn ou envie uma mensagem para https://wa.me/5535999876119
 
 ---
-
-## Tecnologias
-
-### Linguagens
-- JavaScript, Java, AutoHotkey
-
-### Frameworks
-- Angular, React, Spring Boot, JUnit
-
-### Ferramentas
-
-- VSCode, GIT/GitHub, Postman, Swagger
-
-### Aplicações e Experiências
-
-- **Aplicações SPA:** Experiência com Angular e React, incluindo desenvolvimento de APIs RESTful e manipulação de dados JSON.
-- **APIs em Java com Spring Boot:** Conexão com banco de dados relacional, uso de Postman para testes e Swagger para documentação.
-- **Scripts em AutoHotkey:** Automação de tarefas repetitivas, criando soluções personalizadas para cada caso.
-- **Projetos com Terminal:** Prática de princípios de orientação a objetos e aplicação de métodos em classes com polimorfismo.
-
-### Boas Práticas
-- SOLID, Clean Code, GitFlow, DRY, YAGNI
-
-### Outros Conhecimentos
-- Design Patterns, Object Calisthenics, Scrum, Kanban, XP, TDD
