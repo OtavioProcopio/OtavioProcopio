@@ -29,11 +29,12 @@ Análises de causa raiz e melhoria contínua, integração com equipes multidisc
 
 ## 🎓 Formação Acadêmica
 - **[Análise e Desenvolvimento de Sistemas]** - [Faculdade de Tecnologia de Mococa (Fatec) – Mococa/SP]
-Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia de Mococa (Fatec) – Mococa/SP
 Conclusão prevista: Dezembro/2026
 
----
-
+- **[Gestão da Qualidade]** - [Estacio de Sá - EAD]
+  Conclusão 12/2024
+  
+- **[Técnico em Eletônica]** - [Etec João Baptista de Lima Figueiredo - (Eletrô) - Mococa/SP]
 
 ## 📫 Entre em Contato
 Sinta-se à vontade para se conectar para colaborações, networking ou apenas para um bate-papo! Conecte-se comigo no LinkedIn ou envie uma mensagem para https://wa.me/5535999876119
