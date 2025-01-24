@@ -7,10 +7,7 @@
 ---
 ## Sobre Mim
 
-Tenho 26 anos, sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como Inspetor de Qualidade. Tenho uma forte paixão por tecnologia e programação, buscando me especializar como Fullstack Developer.
-
-Além do trabalho e dos estudos, sou entusiasta de atividades que estimulam a criatividade e o raciocínio lógico, como jogar videogames e tocar guitarra. Acredito que essas paixões me ajudam a desenvolver habilidades que se aplicam tanto ao meu trabalho quanto aos meus projetos pessoais.
-
+Tenho 26 anos, sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como Inspetor de Qualidades.
 
 ## 🌟 Objetivos
 - 
@@ -32,7 +29,7 @@ Análises de causa raiz e melhoria contínua, integração com equipes multidisc
 Conclusão prevista: Dezembro/2026
 
 - **[Gestão da Qualidade]** - [Estacio de Sá - EAD]
-  Conclusão 12/2024
+  Conclusão 12/2024 
   
 - **[Técnico em Eletônica]** - [Etec João Baptista de Lima Figueiredo - (Eletrô) - Mococa/SP]
 
