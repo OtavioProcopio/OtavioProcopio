@@ -1,27 +1,22 @@
-<h2 align="center">Fullstack Developer</h2>
+<h2 align="center">Fullstack Developer • Java / Spring Boot </h2>
 
 <p align="center">
-Studant at FATEC • Software Development
+Studant at FATEC • Systems Analysis and Development
 </p>
 
 
 ## Best Projects
-- **Tibiadex Android**  
+- **Tibiadex Android** — Android app consuming Tibia API  
   https://github.com/OtavioProcopio/tibiadex-android  
 
-- **Soar Music** *(production)*  
+- **Soar Music** — production project (client)  
   https://github.com/OtavioProcopio/soar-music  
 
-- **VShape Backend** *(Java / Spring Boot)*  
+- **VShape Backend** — Java / Spring Boot API  
   https://github.com/OtavioProcopio/backend-vshape  
 
----
 
 ## Organizations
 - **BYT3-UNION**  
   https://github.com/byt3un1on  
 
----
-
-## Repositories
-Welcome to my repo.
