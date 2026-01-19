@@ -1,7 +1,7 @@
 <h2 align="center">Fullstack Developer • Java / Spring Boot </h2>
 
 <p align="center">
-Studant at FATEC • Systems Analysis and Development
+Student at FATEC • Systems Analysis and Development
 </p>
 
 
@@ -15,8 +15,12 @@ Studant at FATEC • Systems Analysis and Development
 - **VShape Backend** — Java / Spring Boot API  
   https://github.com/OtavioProcopio/backend-vshape  
 
+- **ia4j-backend** — Audio Course Factory API (Spring Boot / LangChain4j)  
+  https://github.com/OtavioProcopio/ia4j-backend
+
+- **ia4j-frontend** — Audio Course Factory Web Interface  
+  https://github.com/OtavioProcopio/ia4j-frontend
+
 
 ## Organizations
-- **BYT3-UNION**  
-  https://github.com/byt3un1on  
-
+- **BYT3-UNION** https://github.com/byt3un1on
