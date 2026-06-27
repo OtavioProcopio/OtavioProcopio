@@ -1,25 +1,49 @@
 # Otávio Procópio
 
-Estudante de Análise e Desenvolvimento de Sistemas na FATEC e desenvolvedor focado no ecossistema Java (Spring Boot) e TypeScript (React).
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC e desenvolvedor focado no ecossistema Java (Spring Boot), Python (FastAPI) e TypeScript (React).
 
 ---
 
-### 💻 Projetos Recentes
-- **[ia4j-backend](https://github.com/OtavioProcopio/ia4j-backend) / [ia4j-frontend](https://github.com/OtavioProcopio/ia4j-frontend)**: Plataforma para geração de cursos em áudio integrada a modelos de IA (Java, Spring Boot, LangChain4j, React, Next.js).
-- **[tibiadex-android](https://github.com/OtavioProcopio/tibiadex-android)**: Aplicativo Android nativo que consome a API TibiaData v4 (Java).
-- **[soar-music](https://github.com/OtavioProcopio/soar-music)**: Plataforma de streaming e gerenciamento musical sob demanda (TypeScript, React).
-- **[backend-vshape](https://github.com/OtavioProcopio/backend-vshape)**: API REST para controle de acessos e treinos da plataforma VShape (Java, Spring Boot, PostgreSQL).
+### 📊 Dashboard
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OtavioProcopio&theme=github_dark" alt="Profile Details" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OtavioProcopio&theme=github_dark" alt="Stats" width="49%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OtavioProcopio&theme=github_dark" alt="Most Commits" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OtavioProcopio&theme=github_dark" alt="Repos per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OtavioProcopio&theme=github_dark" alt="Productive Time" width="32%"/>
+</p>
+
+---
+
+### 💻 Projetos em Destaque
+
+- **[Area Verde](https://github.com/OtavioProcopio/area-verde)**
+  Sistema comercial de gestão de caixa, fluxo de estoque, vendas fiadas, comandas e clientes.
+  - **Backend:** FastAPI (Python), SQLAlchemy, Alembic para migrações e testes automatizados com Pytest.
+  - **Frontend:** [area-verde-frontend](https://github.com/OtavioProcopio/area-verde-frontend) (React, TypeScript).
+
+- **[ShortsMaker](https://github.com/byt3un1on/shortsmaker-api)**
+  Plataforma para automação da geração e edição de vídeos curtos (Shorts).
+  - **Backend:** FastAPI (Python) estruturado sob Clean Architecture (divisão clara entre core, adapters e infra).
+  - **Frontend:** [shortsmaker-frontend](https://github.com/byt3un1on/shortsmaker-frontend) (React, TypeScript).
+
+- **[RGM](https://github.com/OtavioProcopio/rgm-backend)**
+  Sistema de gestão interna com controle de acesso, auditoria e fluxos administrativos.
+  - **Backend:** Java, Spring Boot, Spring Security e PostgreSQL.
+  - **Frontend:** [rgm-frontend](https://github.com/OtavioProcopio/rgm-frontend) (React, TypeScript).
+
+- **[Gerador de Orçamento](https://github.com/OtavioProcopio/orcamento_rapido)**
+  Ferramenta para MEIs e profissionais autônomos gerirem e emitirem orçamentos padronizados.
+  - **Frontend:** React, TypeScript, Jest para testes unitários e Cypress para testes E2E.
+
+---
 
 ### 🛠️ Tecnologias
-- **Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate, Node.js, Express.
+- **Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate, Python, FastAPI, Node.js, Express.
 - **Frontend & Mobile:** TypeScript, React, Next.js, Android (Java), Tailwind CSS.
 - **Banco de Dados & DevOps:** PostgreSQL, MySQL, Docker, Git, GitHub Actions.
-
-### 📊 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OtavioProcopio&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas de Otavio" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioProcopio&layout=compact&theme=dark&hide_border=true&hide=html,css,makefile" alt="Linguagens mais utilizadas" height="150" />
-</p>
 
 ---
 
