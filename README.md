@@ -24,10 +24,10 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC e desenvolvedor foc
   - **Backend:** FastAPI (Python), SQLAlchemy, Alembic para migrações e testes automatizados com Pytest.
   - **Frontend:** [area-verde-frontend](https://github.com/OtavioProcopio/area-verde-frontend) (React, TypeScript).
 
-- **[ShortsMaker](https://github.com/byt3un1on/shortsmaker-api)**
-  Plataforma para automação da geração e edição de vídeos curtos (Shorts).
-  - **Backend:** FastAPI (Python) estruturado sob Clean Architecture (divisão clara entre core, adapters e infra).
-  - **Frontend:** [shortsmaker-frontend](https://github.com/byt3un1on/shortsmaker-frontend) (React, TypeScript).
+- **[Simplex Solver](https://github.com/Ferlin92/simplex)** (Contribuição)
+  Resolução interativa de problemas de programação linear pelo método Simplex, com aplicação voltada para a otimização agropecuária.
+  - **Frontend & Core:** React, Vite e JavaScript (algoritmo solver implementado de forma nativa no frontend).
+
 
 - **[RGM](https://github.com/OtavioProcopio/rgm-backend)**
   Sistema de gestão interna com controle de acesso, auditoria e fluxos administrativos.
